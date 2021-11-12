@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#Header{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6n-p1EpPpiDqNAZD14S3eUN8bh1eOAkd7tg&usqp=CAU);
+    padding:20px;
+    margin-top: 40px;
+    color: cornsilk;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    border: ivory;
+    border-style: solid; 
+    background-repeat: no-repeat;
+    background-size: 100%;   
+}
+header nav{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+header nav ul li{
+    text-align: center;
+    display: inline-block;
+    padding-right: 35px;
+
+    
+}
+header nav ul li a{
+    color:black;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin-right: 20px;
+    font-size: 20px;
+} just 
+#Header h1{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBKRN5crErEApPIPHpRk3nsFPSpjPs_qK61A&usqp=CAU);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+#Header h2{
+    margin-top: 10px;
+    text-align: right;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBKRN5crErEApPIPHpRk3nsFPSpjPs_qK61A&usqp=CAU);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQocMxGWbKS9AAzgSw7EiIk63yr2ZkVOF95og&usqp=CAU);
+    background-size: 100%;
+}
+a{
+    color:black;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.404);
+}
+a:hover{
+    color:white;
+    background-color: rgba(0, 0, 0, 0.472);
+}
